@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 This Github page has my school assignments from 2023-2024 listed as repositories, both for Python coding assignments and for HTML/CSS/Javascript assignments! 
 
 <!--
 **DiurnalDays/DiurnalDays** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
